@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uf46yr
 - 👀 I’m interested in information information
 - 🌱 I am currently studying to become an information security specialist
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on UnderMind
 - 📫 How to reach me ...
 
 <!---
